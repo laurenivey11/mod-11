@@ -1,1 +1,17 @@
-[{"title":"Test Title","text":"Test text"}]
+
+
+{
+    "animals": [
+      {
+        "id": "0",
+        "name": "Spindle",
+        "species": "bear",
+        "diet": "carnivore",
+        "personalityTraits": [
+          "hungry",
+          "zany",
+          "loving"
+        ]
+      }
+    ]
+}
